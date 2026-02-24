@@ -1,25 +1,44 @@
-# Hi there, I'm Mayank 👋
+# Hi, I'm Mayank 👋 
 
-🎓 Student | 💻 Data Science & Web Dev Enthusiast | 🌱 Learning DevOps  
+### 📊 Data Scientist & 💻 Full Stack Web Developer 
 
-I’m passionate about building **websites**, exploring **data science**, and connecting everything through **DevOps**.  
-Always learning, experimenting, and sharing along the way 🚀  
+I’m a developer who enjoys bridging the gap between "What does this data mean?" and "How can I make this look good on a screen?" I specialize in Python for data heavy-lifting and React for building slick interfaces.
 
----
-
-### 💡 Tech Stack
-🐍 **Python** | ⚛️ **React.js** | 💻 **JavaScript** | 🌐 **HTML & CSS**  
-☁️ **Learning DevOps** (Docker, CI/CD, etc.)
+**Basically, I spend 80% of my time cleaning data and the other 20% wondering why a `<div>` won't center.**
 
 ---
 
-### 📊 GitHub Stats
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasushmartya&show_icons=true&theme=tokyonight)
+### 🛠️ My Tech Toolbox
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasushmartya&layout=compact&theme=tokyonight)
+| Category | Tools |
+| :--- | :--- |
+| **Data Science** | `Python` • `Pandas` • `NumPy` • `Scikit-Learn` • `Matplotlib` • `Seaborn` |
+| **Web Dev** | `JavaScript` • `React.js` • `HTML5` • `CSS3` |
+| **Foundations** | `C` • `Git` • `Linux` |
 
 ---
 
-> “Code. Learn. Build. Repeat.” 🔁  
+### 🚀 What I'm Up To
+- 🎓 **Looking for Internships:** Ready to contribute to data-driven teams or web-dev squads.
+- 🗣️ **Current Obsession:** Linguistics and **Conlanging** (Ask me about the syntax of a language I just invented).
+- 🧠 **Learning:** Improving my machine learning deployment skills.
 
-✨ *Let’s connect, collaborate, and create something awesome together!* 🌟
+---
+
+### 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vasushmartya&show_icons=true&theme=radical" alt="Stats Card" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasushmartya&layout=compact&theme=radical" alt="Top Langs" width="41%" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+- **Email:** `vasushmartya@gmail.com`
+- **Fun Fact:** I approach coding like linguistics—it's all about the grammar, until I start swearing in C.
+
+---
+<p align="center">
+  <i>"The best error message is the one that never shows up."</i>
+</p>
