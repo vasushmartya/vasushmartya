@@ -28,9 +28,10 @@ I’m a developer who enjoys bridging the gap between "What does this data mean?
 ### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vasushmartya&show_icons=true&theme=radical" alt="Stats Card" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasushmartya&layout=compact&theme=radical" alt="Top Langs" width="41%" />
-</p>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vasushmartya&show_icons=true&theme=radical" alt="Vasu's Stats" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vasushmartya&theme=radical" alt="GitHub Streak" width="48%" />
+</p>>
 
 ---
 
